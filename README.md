@@ -15,7 +15,7 @@ de partager vos chef d'oeuvres en une commande !
 Peut importe où vous vous trouvez, rajoutez un petit entete à votre fichier pour indiquer le titre, le chemin sur le 
 wiki, etc... Puis utilisez `wikictl` pour envoyer votre fichier sur le wiki.
 
-Il faut évidemment avoir une clef API et la renseigner dans un fichier de configuration. 
+Il faut évidemment avoir une clef API et la renseigner dans un fichier de configuration.
 
 ## Installation
 Création de l'environnement virtuel avec l'installation des modules :
